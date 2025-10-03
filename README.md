@@ -136,7 +136,7 @@ glpsol --version
 - [Pyomo公式ドキュメント](https://pyomo.readthedocs.io/)
 - [HiGHS ソルバー](https://highs.dev/)
 - [uv パッケージマネージャー](https://docs.astral.sh/uv/)
-
+- [AMPL](https://ampl.com/)
 ---
 
 © 2025 小林 和博
